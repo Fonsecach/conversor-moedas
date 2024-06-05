@@ -1,4 +1,4 @@
-# Projeto 1
+# API de conversão de moedas usando FastAPI e a API da Alpha Vantage
 
 ## Descrição
 
